@@ -1,0 +1,12 @@
+--select coloumn command:
+SELECT column1, column2, ...
+FROM table_name;
+
+--Select Distinct:
+SELECT DISTINCT Country FROM Customers;
+SELECT DISTINCT column1, column2, ...
+FROM table_name;
+
+--The SELECT DISTINCT statement is used to return only distinct (different) values.
+
+
